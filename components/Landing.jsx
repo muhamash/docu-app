@@ -1,5 +1,7 @@
-import Link from "next/link";
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
+import Link from "next/link";
 
 const Landing = () => {
   return (
